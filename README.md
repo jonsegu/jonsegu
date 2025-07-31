@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%92%BB+Desarrollador+Web+Creativo+%7C+Estudiante+SENA+%7C+Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%92%BB+Desarrollador+Web+%7C+Estudiante+SENA+%7C+Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -63,7 +63,7 @@
 
 ---
 
-<h2 align="center">⚡️ Animaciones, Stats & Badges</h2>
+<h2 align="center">⚡️Stats & Badges</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jonsegu&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
@@ -76,7 +76,7 @@
 
 ---
 
-<h2 align="center">🚀 ¿Listo para conectar?</h2>
+<h2 align="center">🚀 Contactame</h2>
 
 <p align="center">
   <a href="mailto:davsegu1995@gmail.com"><img src="https://img.shields.io/badge/Email-davsegu1995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
