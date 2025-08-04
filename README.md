@@ -90,4 +90,4 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=La+tecnolog%C3%ADa+es+mejor+cuando+nos+une.;Siempre+aprendiendo+y+creando!&center=true&width=650&height=45">
 </p>
- <a href="https://playsnake.org/" target="_blank">
+ [<a href="https://playsnake.org/" target="_blank">](https://playsnake.org/)
