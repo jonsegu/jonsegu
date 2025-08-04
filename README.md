@@ -1,92 +1,60 @@
-<!-- README de perfil GitHub MAXIMIZADO para jonsegu -->
+# 🎮 Bienvenido a mi perfil
 
-<!-- Banner animado SVG -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&height=220&section=header&text=Jonathan%20Segura&fontSize=60&fontAlign=50&desc=Desarrollador%20Web%20Full%20Stack&descAlign=65&descAlignY=80&animation=twinkling"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%92%BB+Desarrollador+Web+%7C+Estudiante+SENA+%7C+Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
-</p>
+<h3 align="center">¡Hola! Soy Jonathan 👋</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
+  Desarrollador full stack | Apasionado por la programación, la innovación y los retos tecnológicos 🚀
 </p>
 
 ---
 
-<h2 align="center">🦾 Sobre mí</h2>
+## 🛠️ Tecnologías
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Edad-22%20a%C3%B1os-1abc9c?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Colombia-ffb347?style=for-the-badge">
-  <a href="mailto:davsegu1995@gmail.com"><img src="https://img.shields.io/badge/Email-davsegu1995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="70%" />
-</p>
-
-<p align="center">
-  <b>¡Hola! Soy Jonathan Segura, desarrollador web full stack con pasión por la tecnología, la innovación y el aprendizaje continuo.</b>
-  <br>
-  <i>Actualmente estudiante SENA y desarrollador web en una empresa farmacéutica.<br>
-  Apuntando siempre a soluciones seguras, modernas y creativas.</i>
-</p>
+- Frontend: React, Vue, HTML, CSS, JavaScript, Bootstrap
+- Backend: Laravel, Node.js, Express
+- Base de datos: MySQL, MongoDB, PlanetScale
+- DevOps: Docker, Railway, Vercel
 
 ---
 
-<h2 align="center">🎨 Stack Tecnológico</h2>
+## 🎯 Proyectos destacados
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,php,laravel,html,css,bootstrap,mysql,java,kotlin,git,vscode" />
-</p>
-
-<p align="center">
-
-  <br>
-  <i>¡Me encanta crear interfaces atractivas y sistemas robustos!</i>
-</p>
+- [Sistema de farmacia homeopática](https://github.com/tuusuario/homeopatia)
+- [Sistema de control biométrico](https://github.com/tuusuario/biometrico)
+- [Mi portafolio web](https://tuusuario.github.io)
 
 ---
 
-<h2 align="center">🌟 Proyectos Destacados</h2>
+## 📈 Actividad
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=tokyonight)
 
-| 💼 Prácticas Empresa Farmacéutica | 🎓 Proyecto SENA: Servicio Técnico |
-| :-------------------------------: | :-------------------------------: |
-| <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="140"/> | <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="140"/> |
-| Sistema web para gestión de productos, usuarios y roles. <br> **Stack:** React, Node.js, PHP, Laravel, MySQL. <br> Seguridad avanzada y despliegue a producción. | Plataforma para gestión de servicios técnicos de electrodomésticos. <br> **Stack:** React, Node.js, Laravel, MySQL.<br> Vistas por rol, seguimiento en tiempo real, UI 100% responsive. |
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=tokyonight)
 
 ---
 
-<h2 align="center">⚡️Stats & Badges</h2>
+## 🐍 GitHub Contributions Snake
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonsegu&show_icons=true&theme=tokyonight&hide_border=true" width="47%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jonsegu&theme=tokyonight&hide_border=true" width="47%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=jonsegu&theme=tokyo-night&bg_color=0d1117&color=00e1ff&line=00e1ff&point=ffffff&hide_border=true" width="98%">
-</p>
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ---
 
-<h2 align="center">🚀 Contactame</h2>
+## 🎮 Juega Snake
 
 <p align="center">
-  <a href="mailto:davsegu1995@gmail.com"><img src="https://img.shields.io/badge/Email-davsegu1995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Celular-3223253844-success?style=for-the-badge">
+  <a href="https://playsnake.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/master/snake-game.gif" alt="Play Snake" width="400" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
+👉 [Haz clic aquí para jugar Snake 🎮](https://playsnake.org/)
+
+---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=La+tecnolog%C3%ADa+es+mejor+cuando+nos+une.;Siempre+aprendiendo+y+creando!&center=true&width=650&height=45">
+  Hecho con ❤️ por Jonathan
 </p>
