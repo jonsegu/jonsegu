@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%92%BB+Tecnologo+en+desarrollo+de+software+%7C+Apasionado+por+la+tecnolog%C3%ADa" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2EC4B6&vCenter=true&multiline=true&width=700&height=80&lines=%F0%9F%92%BB+Tecnologo+en+Desarrollo+de+Software+%7C" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <h2 align="center">🦾 Sobre mí</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Edad-22%20a%C3%B1os-1abc9c?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Edad-23%20a%C3%B1os-1abc9c?style=for-the-badge">
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Colombia-ffb347?style=for-the-badge">
   <a href="mailto:davsegu1995@gmail.com"><img src="https://img.shields.io/badge/Email-davsegu1995@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -30,7 +30,7 @@
 <p align="center">
   <b>¡Hola! Soy Jonathan Segura, desarrollador web full stack con pasión por la tecnología, la innovación y el aprendizaje continuo.</b>
   <br>
-  <i>Actualmente estudiante SENA y desarrollador web en una empresa farmacéutica.<br>
+  <i>Tecnologo en Analisis y Desarrollo de Software, actualmente Freelance en un proyecto de inteligencia artificial (SAGE).<br>
   Apuntando siempre a soluciones seguras, modernas y creativas.</i>
 </p>
 
@@ -39,7 +39,7 @@
 <h2 align="center">🎨 Stack Tecnológico</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,php,laravel,html,css,bootstrap,mysql,java,kotlin,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,python,docker,terraform,gcp,aws,nodejs,php,laravel,html,bootstrap,mysql,java,git,vscode" />
 </p>
 
 <p align="center">
